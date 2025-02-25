@@ -1,0 +1,34 @@
+{
+  "name": "castorice-theme",
+  "displayName": "Castorice VScode Theme",
+  "description": "\"The Daughter of River Styx\" A theme based on Castorice from Honkai:Star Rail",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GustaSky/Castorice-theme.git"
+  },
+  "icon": 
+  "castorice.jpg",
+  "keywords": [
+    "lavanda",
+    "honkai:star rail",
+    "castorice",
+    "pink",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Castorice VSCode Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Castorice VSCode Theme-color-theme.json"
+      }
+    ]
+  }
+}
