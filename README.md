@@ -1,4 +1,4 @@
-# Gustavo-sky README
+# README
 
 ## Working with Markdown
 
